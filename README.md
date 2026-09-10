@@ -3,3 +3,12 @@
 gcc -nostdlib -no-pie print_hello.s -o hello
 ## Run
 ./hello
+
+
+
+# Task 1
+## Compile
+>> gcc -no-pie task_1.s print_ram.c -o task1
+
+## Run
+./task1
