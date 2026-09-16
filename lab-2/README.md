@@ -1,6 +1,7 @@
 # Lab 1
 ## Compile
 gcc -nostdlib -no-pie print_hello.s -o hello
+
 ## Run
 ./hello
 
@@ -30,7 +31,8 @@ gcc -nostdlib -no-pie print_hello.s -o hello
 # Task 4
     ## 
     Compile
-        >> gcc -no-pie task_3.s task_4_print.c -o task3
+        >> gcc -no-pie task_4.s task_4_print.c -o task4
 
     ## Run
     ./task4
+    
